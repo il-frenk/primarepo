@@ -4,9 +4,9 @@
 
 ## Tables
 | questa | è |
-| -------------- |
-| una | tabella |
-| ----------------- |
+| ------ |----|
+| una    | tabella |
+| -------|----------|
 ## Tables
 
 | Option | Description |

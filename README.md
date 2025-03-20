@@ -3,10 +3,11 @@
 ### _questa è una prova_
 
 ## Tables
+| ------ |---|
 | questa | è |
 | ------ |----|
 | una    | tabella |
-| -------|----------|
+| -------|---------|
 ## Tables
 
 | Option | Description |
